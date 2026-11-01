@@ -1,0 +1,8 @@
+{"doc_id": "plan_pricing", "text": "The Pro plan costs 20 dollars per month. The Free plan is limited to three active projects."}
+{"doc_id": "plan_support", "text": "Priority support is included with the Pro plan. Standard support is available Monday through Friday, 9am to 6pm."}
+{"doc_id": "refunds", "text": "Refunds can be requested within 30 days of purchase and are returned to the original payment method in 5 to 7 business days."}
+{"doc_id": "security", "text": "All data is encrypted at rest with AES-256 and in transit with TLS 1.2 or higher. Row-level security isolates each tenant's data."}
+{"doc_id": "api_limits", "text": "The API allows 100 requests per minute on the Free plan and 1000 requests per minute on the Pro plan. Exceeding the limit returns HTTP 429."}
+{"doc_id": "exports", "text": "Data can be exported as CSV or JSON. Exports larger than 1 gigabyte are delivered as a signed download link valid for 24 hours."}
+{"doc_id": "sso", "text": "Single sign-on via SAML and OIDC is available on the Pro plan. SSO configuration requires an identity provider metadata URL."}
+{"doc_id": "regions", "text": "Data can be hosted in the US, EU, or APAC regions. The hosting region is chosen at account creation and cannot be changed later."}

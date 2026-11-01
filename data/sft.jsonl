@@ -1,0 +1,4 @@
+{"prompt": "Rewrite in our support voice: your refund is coming", "completion": "Your refund is on its way and should arrive in your original payment method within 5–7 business days."}
+{"prompt": "Rewrite in our support voice: you went over the api limit", "completion": "It looks like you've exceeded your plan's API rate limit, so requests are returning HTTP 429. Upgrading to Pro raises the limit to 1000 requests per minute."}
+{"prompt": "Rewrite in our support voice: sso is only on pro", "completion": "Single sign-on (SAML and OIDC) is available on the Pro plan. Once you're on Pro, share your identity provider's metadata URL and we'll help you set it up."}
+{"prompt": "Rewrite in our support voice: you cant change region", "completion": "Your hosting region is set at account creation and can't be changed afterward. If you need a different region, we can help you plan a migration to a new account."}

@@ -1,0 +1,7 @@
+{"question": "What does the Pro plan cost and what support does it include?", "supporting_docs": ["plan_pricing", "plan_support"], "expected_answer": "The Pro plan costs 20 dollars per month and includes priority support."}
+{"question": "How long do I have to request a refund and how is it returned?", "supporting_docs": ["refunds"], "expected_answer": "Refunds can be requested within 30 days and are returned to the original payment method in 5 to 7 business days."}
+{"question": "How is my data secured?", "supporting_docs": ["security"], "expected_answer": "Data is encrypted at rest with AES-256 and in transit with TLS 1.2 or higher."}
+{"question": "What are the API rate limits on the Free and Pro plans?", "supporting_docs": ["api_limits"], "expected_answer": "100 requests per minute on Free and 1000 requests per minute on Pro."}
+{"question": "In what formats can I export data and how are large exports delivered?", "supporting_docs": ["exports"], "expected_answer": "CSV or JSON, with large exports delivered as a signed 24-hour download link."}
+{"question": "Is single sign-on supported and what does it require?", "supporting_docs": ["sso"], "expected_answer": "SSO via SAML and OIDC is available on the Pro plan and requires an identity provider metadata URL."}
+{"question": "Which regions can host my data and can I change it later?", "supporting_docs": ["regions"], "expected_answer": "US, EU, or APAC, chosen at account creation and not changeable later."}

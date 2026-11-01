@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "documind"
+version = "0.1.0"
+description = "A self-correcting agentic RAG platform with hybrid retrieval, a verifier loop, LoRA fine-tuning, and RAGAS-style evaluation."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "Yadnesh Deshpande" }]
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+providers = ["requests>=2.28"]
+train = ["transformers>=4.40", "peft", "trl", "datasets", "accelerate", "torch"]
+
+[tool.setuptools.packages.find]
+include = ["documind*"]
